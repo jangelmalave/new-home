@@ -1,0 +1,226 @@
+<div class="row" id="planes-d">
+					<div class="col-md-12 info9">
+						<h2 class="display-3">
+							PLANES
+						</h2>
+						<div class="col-12 text-center">
+								<ul id="menu" class="p-a-0 m-b-0 _800">
+										<li>Mensual</li>
+										<li class="symbol"><span class="pointList">•</span> Anual</li>
+									</ul>
+									<div class="">
+										<input type="range" min="0" max="1" value="0" class="slider2" id="myRange" ng-model="billing">
+									</div>
+						</div>
+					</div>
+			</div>
+		
+					
+		<div class="row text-center p-a-0 m-x-auto p-y-md" id="planes-d">
+		
+				<div class="row flex-item-sb" style="justify-content: center !important">
+					<div class="col-4">
+					</div>
+					<div class="col-2 p-x-0  text-white text-1-25x posicionImgPlan">
+					  
+						<img src="media/img/1.png" class="w-full" alt="">
+						<span class="text-md font-weight-bold">97.000 mes</span>
+		
+					</div>
+					<div class="col-2 p-a-0 text-white text-1-25x posicionImgPlan">
+						
+						<img src="media/img/2.png" class="w-full" alt="">
+						<span class="text-md font-weight-bold">127.000 mes</span>
+					</div>
+					<div class="col-2  p-a-0 text-white text-1-25x posicionImgPlan">
+						
+						<img src="media/img/3.png" class="w-full" alt="">
+						<span class="text-md font-weight-bold">147.000
+							 mes</span>
+					</div>
+				</div>
+				<div class="row flex-item-sb height-planes _800" id="2" style="justify-content: center !important">
+					<div class="row height-planes col-4 text-sm text-left grey-200">
+						<div class="height-planes col-2 p-a-0 "> <span class="height-planes margin-planes label white circle text-1-75x text-dark   label-lg m-r-sm padding-planes p-y-sm">1</span></div>
+						<div class="height-planes col-10 p-a-0   p-t-xs text-vertical"># Proveedores Ormigga a los cuales le puedes solicitar cotización</div>
+						
+					</div> 
+					<div class="height-planes col-2 b-a b-light grey-50 text-vertical"><span class="text-primary _800 m-x-auto text-center">MÁS DE 1000</span></div>
+					<div class="height-planes col-2 b-a b-light grey-50 text-vertical"><span class="text-primary _800 m-x-auto text-center">MÁS DE 1000</span></div>
+					<div class="height-planes col-2 b-a b-light grey-50 text-vertical"><span class="text-primary _800 m-x-auto text-center">MÁS DE 1000</span></div>
+					
+				</div>
+				<div class="row flex-item-sb height-planes _800" id="3" style="justify-content: center !important">
+					<div class= "row height-planes col-4 text-sm text-left">
+						<div class="height-planes col-2 p-a-0"> <span class="height-planes margin-planes label grey-200 circle text-1-75x text-dark   label-lg m-r-sm padding-planes2 p-y-sm">2</span></div>
+						<div class="height-planes   col-10 p-a-0   p-t-xs text-vertical hint--bottom hint--info hint--large" data-hint="Puedes pedirle cotización a más de 1,000 proveedores Ormigga en el país, en la siguientes categorías: Locaciones /salón de eventos, Agencias de publicidad/digitales, Avisos/publicidad exterior, BTL/activaciones, Impresiones, Transporte, Merchandising /POP, Dotaciones, Papelería /material de oficina, Producción audiovisual, Investigación de mercados, Call centers, Servicios generales y mantenimiento, Aseo y cafeteria.">Categoría con proveedores Ormigga<i class="fa fa-info-circle" aria-hidden="true"></i></div>
+						
+					</div>
+					<div class="height-planes col-2 b-a b-light grey-50"><i class="fa fa-check fa-lg color-check m-t-1"></i></div>
+					<div class="height-planes col-2 b-a b-light grey-50"><i class="fa fa-check fa-lg color-check m-t-1"></i></div>
+					<div class="height-planes col-2 b-a b-light grey-50"><i class="fa fa-check fa-lg color-check m-t-1"></i></div>
+					
+				</div>
+				<div class="row flex-item-sb height-planes _800" id="1" style="justify-content: center !important">
+					<div class= "row height-planes col-4 text-sm text-left grey-200">
+						<div class="height-planes col-2 p-a-0"> <span class="height-planes margin-planes label white circle text-1-75x text-dark   label-lg m-r-sm padding-planes2 p-y-sm">3</span></div>
+						<div class=" height-planes col-10 p-a-0   p-t-xs  without-tool hint--bottom hint--info hint--large" data-hint="Te devolvemos el 100% de la mensualidad que hayas pagado cada bimestre (2 meses) si ocurren las siguientes condiciones: 1. Al momento de hacer la solicitud, hayas cargado evidencia de una cotización anterior. 2. Ésta debe no sólo incluir el precio de manera clara sino que las características deben ser idénticas a lo que estas solicitando en el momento. 3. La cotización cargada no debe tener más de 6 meses de antigüedad. 4. Lo que quieras cotizar, debe fabricarlo y venderlo en el país, al menos 5 compañías distintas. 6. La garantía es válida sólo si en el bimestre has realizado al menos 10 solicitudes de cotización invitando a proveedores Ormigga. 7. Se te devolverá el dinero siempre que en el conjunto de las solicitudes que hayas realizado en el bimestre, las cotizaciones más barata de cada una no generen sumadas un ahorro promedio ponderado total igual o superior al 10% (se tienen en cuenta tanto proveedores invitados por ti como proveedores Ormigga)">Garantía del 10% de ahorro o devolución total del dinero  <i class="fa fa-info-circle" aria-hidden="true"></i></div>
+					  
+					
+					</div>
+					<div class="height-planes col-2 b-a b-light grey-50 no-b-t"><i class="fa fa-check fa-lg color-check m-t-1"></i></div>
+					<div class="height-planes col-2 b-a b-light grey-50 no-b-t"><i class="fa fa-check fa-lg color-check m-t-1"></i></div>
+					<div class="height-planes col-2 b-a b-light grey-50 no-b-t"><i class="fa fa-check fa-lg color-check m-t-1"></i></div>
+					
+				</div>
+				<div class="row flex-item-sb height-planes _800" id="5" style="justify-content: center !important">
+					<div class= "row height-planes col-4 text-sm text-left">
+							<div class="height-planes col-2 p-a-0"> <span class="height-planes margin-planes label grey-200 circle text-1-75x text-dark   label-lg m-r-sm padding-planes2 p-y-sm">4</span></div>
+							<div class="  height-planes col-10 p-a-0   p-t-xs  without-tool hint--bottom hint--info hint--large" data-hint="Cuando contrates con un proveedor Ormigga, nosotros nos encargaremos de gestionar el proveedor… hasta que te entregue. ¡Tu no te preocupes que el trabajo lo hacemos por ti! Los proveedores tuyos, deben ser gestionados por ti.">Tu departamento de compras que te acompaña durante todo el proceso  <i class="fa fa-info-circle" aria-hidden="true"></i></div>
+					
+					</div>
+					<div class="height-planes col-2 b-a b-light grey-50"><i class="fa fa-check fa-lg color-check m-t-1"></i></div>
+					<div class="height-planes col-2 b-a b-light grey-50"><i class="fa fa-check fa-lg color-check m-t-1"></i></div>
+					<div class="height-planes col-2 b-a b-light grey-50"><i class="fa fa-check fa-lg color-check m-t-1"></i></div>
+					
+				</div>
+				<div class="row flex-item-sb height-planes _800" id="6" style="justify-content: center !important">
+					<div class= "row height-planes col-4 text-sm text-left grey-200">
+						<div class="height-planes col-2 p-a-0"> <span class="height-planes margin-planes label white circle text-1-75x text-dark   label-lg m-r-sm padding-planes2 p-y-sm">5</span></div>
+						<div class="height-planes   col-10 p-a-0   p-t-xs text-vertical hint--bottom hint--info hint--large" data-hint="Lleva seguimiento de los entregables o hitos clave de la contratación que has hecho; crea los hitos y el día indicado, recibirás e-mails de alertas que te avisarán del progreso del proveedor."> <span>Diario Work <i class="fa fa-info-circle" aria-hidden="true"></i> <br> <span class="text-muted textPlanes2">(Calendario Inteligente de Entregables)</span></span></div>
+					</div>
+					<div class="height-planes col-2 b-a b-light grey-50"><i class="fa fa-check fa-lg color-check m-t-1"></i></div>
+					<div class="height-planes col-2 b-a b-light grey-50"><i class="fa fa-check fa-lg color-check m-t-1"></i></div>
+					<div class="height-planes col-2 b-a b-light grey-50"><i class="fa fa-check fa-lg color-check m-t-1"></i></div>
+					
+				</div>
+				<div class="row flex-item-sb height-planes _800" id="7" style="justify-content: center !important">
+					<div class= "row height-planes col-4 text-sm text-left">
+						<div class="height-planes col-2 p-a-0"> <span class="height-planes margin-planes label grey-200 circle text-1-75x text-dark   label-lg m-r-sm padding-planes2 p-y-sm">6</span></div>
+						<div class="height-planes   col-10 p-a-0   p-t-xs text-vertical hint--bottom hint--info hint--large" data-hint="Haz solicitudes de cotización, revisa cotizaciones, aprueba órdenes de compra o contratos, y gestiona al proveedor desde tu celular.">App Ormigga<i class="fa fa-info-circle" aria-hidden="true"></i></div>
+					</div>
+					<div class="height-planes col-2 b-a b-light grey-50"><i class="fa fa-check fa-lg color-check m-t-1"></i></div>
+					<div class="height-planes col-2 b-a b-light grey-50"><i class="fa fa-check fa-lg color-check m-t-1"></i></div>
+					<div class="height-planes col-2 b-a b-light grey-50"><i class="fa fa-check fa-lg color-check m-t-1"></i></div>
+					
+				</div>
+				<div class="row flex-item-sb height-planes _800" id="8" style="justify-content: center !important">
+					<div class= "row height-planes col-4 text-sm text-left grey-200">
+						<div class="height-planes col-2 p-a-0"> <span class="height-planes margin-planes label white circle text-1-75x text-dark   label-lg m-r-sm padding-planes2 p-y-sm">7</span></div>
+						<div class="height-planes col-10   p-a-0   p-t-xs hint--bottom hint--info hint--large" data-hint="Conoce los ahorros que has obtenido en total y por centros de costo; contrasta con tu presupuesto para mantener el control de gastos, y conoce el detalle de tus contrataciones y de tus finanzas con los proveedores.">Analíticas <span class="text-muted textPlanes2"> (ahorros y gastos por centros de costos, analítica de contratos, finanzas, etc.)</span><i class="fa fa-info-circle" aria-hidden="true"></i></div>
+					</div>
+					<div class="height-planes col-2 b-a b-light grey-50"><i class="fa fa-check fa-lg color-check m-t-1"></i></div>
+					<div class="height-planes col-2 b-a b-light grey-50"><i class="fa fa-check fa-lg color-check m-t-1"></i></div>
+					<div class="height-planes col-2 b-a b-light grey-50"><i class="fa fa-check fa-lg color-check m-t-1"></i></div>
+					
+				</div>
+				<div class="row flex-item-sb height-planes _800" id="10" style="justify-content: center !important">
+					<div class= "row height-planes col-4 text-sm text-left">
+							<div class="height-planes col-2 p-a-0"> <span class="height-planes margin-planes label grey-200 circle text-1-75x text-dark   label-lg m-r-sm padding-planes2 p-y-sm">8</span></div>
+							<div class="  height-planes col-10 p-a-0   p-t-xs without-tool hint--bottom hint--info hint--large" data-hint="Nuestro comparador de propuestas (EVA) califica de manera automática cada cotización de acuerdo a nuestro algoritmo interno.">Evaluador de Propuestas Inteligentes <i class="fa fa-info-circle" aria-hidden="true"></i> <br> <span class="text-muted textPlanes2">(EVA &trade;)</span></div>
+					</div>
+					<div class="height-planes col-2 b-a b-light grey-50 text-vertical"><span class="text-primary _800 m-x-auto">MANUAL</span></div>
+					<div class="height-planes col-2 b-a b-light grey-50 text-vertical"><span class="text-primary _800 m-x-auto">AUTOMÁTICO</span></div>
+					<div class="height-planes col-2 b-a b-light grey-50 text-vertical"><span class="text-primary _800 m-x-auto">AUTOMÁTICO</span></div>
+					
+				</div>
+				<div class="row flex-item-sb height-planes _800" id="11" style="justify-content: center !important">
+					<div class= "row height-planes col-4 text-sm text-left grey-200">
+						<div class="height-planes col-2 p-a-0"> <span class="height-planes margin-planes label white circle text-1-75x text-dark   label-lg m-r-sm padding-planes2 p-y-sm">9</span></div>
+						<div class="  height-planes col-10 p-a-0   p-t-xs without-tool hint--bottom hint--info hint--large" data-hint="Nuestro algoritmo Huali mide 19 variables en relación a 4 categorías, para obtener de la manera mas precisa cual proveedor te conviene y su confiabilidad.">Acceso a Huali del proveedor <i class="fa fa-info-circle" aria-hidden="true"></i> <br> <span class="text-muted textPlanes2">(Huali &trade;)</span></div>
+					</div>
+					<div class="height-planes col-2 b-a b-light grey-50 text-vertical"><span class="text-primary _800 m-x-auto">BÁSICO</span></div>
+					<div class="height-planes col-2 b-a b-light grey-50 text-vertical"><span class="text-primary _800 m-x-auto">COMPLETO</span></div>
+					<div class="height-planes col-2 b-a b-light grey-50 text-vertical"><span class="text-primary _800 m-x-auto">COMPLETO</span></div>
+					
+				</div>
+				<div class="row flex-item-sb height-planes _800" id="14" style="justify-content: center !important">
+					<div class= "row height-planes col-4 text-sm text-left">
+							<div class="height-planes col-2 p-a-0"> <span class="height-planes margin-planes label grey-200 circle text-1-75x text-dark   label-lg m-r-sm padding-planes3 p-y-sm">10</span></div>
+							<div class="  height-planes col-10 p-a-0   p-t-xs text-vertical without-tool hint--bottom hint--info hint--large" data-hint="Por medio de la subasta inversa podras poner a competir a tus proveedores para que lleguen al mínimo precio posible en un límite de tiempo  ¿Sabías que la subasta inversa logra ahorros promedio mayores al 10%?">Servicio de Subasta inversa<i class="fa fa-info-circle" aria-hidden="true"></i></div>
+					</div>
+					<div class="height-planes col-2 b-a b-light grey-50"><i class="fa fa-close fa-lg color-check m-t-1"></i></div>
+					<div class="height-planes col-2 b-a b-light grey-50"><i class="fa fa-close fa-lg color-check m-t-1"></i></div>
+					<div class="height-planes col-2 b-a b-light grey-50"><i class="fa fa-check fa-lg color-check m-t-1"></i></div>
+				</div>
+
+				<div class="row flex-item-sb height-planes _800" id="16" style="justify-content: center !important">
+					<div class= "row height-planes col-4 text-sm text-left grey-200">
+							<div class="height-planes col-2 p-a-0"> <span class="height-planes margin-planes label white circle text-1-75x text-dark   label-lg m-r-sm padding-planes2 p-y-sm">11</span></div>
+							<div class="  height-planes col-10 p-a-0   p-t-xs without-tool hint--bottom hint--info hint--large" data-hint="La opción de Nombre anónimo te permite reservar tu nombre al solicitar cotizaciones, en caso de que no quieras que los proveedores conozcan tu nombre al momento de hacer una solicitud.">Opción de nombre anónimo al solicitar<i class="fa fa-info-circle" aria-hidden="true"></i> <br> <span> cotizaciones</span></div>
+					</div>
+					<div class="height-planes col-2 b-a b-light grey-50"><i class="fa fa-close fa-lg color-check m-t-1"></i></div>
+					<div class="height-planes col-2 b-a b-light grey-50"><i class="fa fa-close fa-lg color-check m-t-1"></i></div>
+					<div class="height-planes col-2 b-a b-light grey-50"><i class="fa fa-check fa-lg color-check m-t-1"></i></div>
+				</div>
+				<div class="row flex-item-sb height-planes _800" id="17" style="justify-content: center !important">
+					<div class= "row height-planes col-4 text-sm text-left">
+						<div class="height-planes col-2 p-a-0"> <span class="height-planes margin-planes label grey-200 circle text-1-75x text-dark   label-lg m-r-sm padding-planes3 p-y-sm">12</span></div>
+						<div class="height-planes col-10 p-a-0   p-t-xs without-tool hint--bottom hint--info hint--large" data-hint="">Opción de verificaciones adicionales del <br> <span>proveedor <span class="text-muted textPlanes2">(SARLAFT, Lista Clinton, etc.)</span></span></div>
+					</div>
+					<div class="height-planes col-2 b-a b-light grey-50"><i class="fa fa-close fa-lg color-check m-t-1"></i></div>
+					<div class="height-planes col-2 b-a b-light grey-50"><i class="fa fa-close fa-lg color-check m-t-1"></i></div>
+					<div class="height-planes col-2 b-a b-light grey-50"><i class="fa fa-check fa-lg color-check m-t-1"></i></div>
+				</div>
+				<div class="row flex-item-sb height-planes _800" id="18" style="justify-content: center !important">
+					<div class= "row height-planes col-4 text-sm text-left grey-200">
+							<div class="height-planes col-2 p-a-0"> <span class="height-planes margin-planes label white circle text-1-75x text-dark   label-lg m-r-sm padding-planes3 p-y-sm">13</span></div>
+							<div class="  height-planes col-10 p-a-0   p-t-xs without-tool hint--bottom hint--info hint--large" data-hint="Podrás incluir un contrato de confidencialidad previo a lanzar solicitud de cotización, para que el proveedor firme el contrato antes de enviarte un cotización.">Opción de personalizar el contrato<i class="fa fa-info-circle" aria-hidden="true"></i> <br> <span class="text-muted textPlanes2">que usará por medio de Ormigga con proveedores</span></div>
+					</div>
+					<div class="height-planes col-2 b-a b-light grey-50"><i class="fa fa-close fa-lg color-check m-t-1"></i></div>
+					<div class="height-planes col-2 b-a b-light grey-50"><i class="fa fa-close fa-lg color-check m-t-1"></i></div>
+					<div class="height-planes col-2 b-a b-light grey-50"><i class="fa fa-check fa-lg color-check m-t-1"></i></div>
+				</div>
+				<div class="row flex-item-sb height-planes _800" id="19" style="justify-content: center !important">
+					<div class= "row height-planes col-4 p-r-0 text-sm text-left">
+						<div class="height-planes col-2 p-a-0"> <span class="height-planes margin-planes label white circle text-1-75x  grey-200 text-dark   label-lg m-r-sm padding-planes3 p-y-sm">14</span></div>
+						<div class="  height-planes col-10 p-a-0   p-t-xs without-tool hint--bottom hint--info hint--large" data-hint="Podrás incluir un contrato de confidencialidad previo a lanzar solicitud de cotización, para que el proveedor firme el contrato antes de enviarte un cotización.">Opción incluir contrato de confidencialidad<i class="fa fa-info-circle" aria-hidden="true"></i> <br> <span class="text-muted textPlanes2">previo a lanzar solicitud de cotización</span></div>
+					</div>	
+					<div class="height-planes col-2 b-a b-light grey-50"><i class="fa fa-close fa-lg color-check m-t-1"></i></div>
+					<div class="height-planes col-2 b-a b-light grey-50"><i class="fa fa-close fa-lg color-check m-t-1"></i></div>
+					<div class="height-planes col-2 b-a b-light grey-50"><i class="fa fa-check fa-lg color-check m-t-1"></i></div>
+				</div>
+				<div class="row flex-item-sb height-planes _800" id="20" style="justify-content: center !important">
+					<div class= "row height-planes col-4 text-sm text-left grey-200">
+						<div class="height-planes col-2 p-a-0"> <span class="height-planes margin-planes label white circle text-1-75x text-dark   label-lg m-r-sm padding-planes3 p-y-sm">15</span></div>
+						<div class="  height-planes col-10 p-a-0   p-t-xs without-tool hint--bottom hint--info hint--large" data-hint="Podrás obtener la conexión automática de Ormigga con tu ERP o software contable  (dependiendo de opción de conexión del sistema por medio de Apis) ¿Sabías que este beneficio te ahorrara tiempo para contabilidad y reducción de errores?">Conexión automática de Ormigga con ERP y software contable <i class="fa fa-info-circle" aria-hidden="true"></i></div>
+						
+					</div>
+					<div class="height-planes col-2 b-a b-light grey-50"><i class="fa fa-close fa-lg color-check m-t-1"></i></div>
+					<div class="height-planes col-2 b-a b-light grey-50"><i class="fa fa-close fa-lg color-check m-t-1"></i></div>
+					<div class="height-planes col-2 b-a b-light grey-50"><i class="fa fa-check fa-lg color-check m-t-1"></i></div>
+				</div>
+				<div class="row flex-item-sb height-planes _800" id="12" style="justify-content: center !important">
+					<div class= "row height-planes col-4 text-sm text-left">
+						<div class="height-planes col-2 p-a-0"> <span class="height-planes margin-planes label grey-200 circle text-1-75x text-dark   label-lg m-r-sm padding-planes3 p-y-sm">16</span></div>
+						<div class="height-planes col-10 p-a-0   p-t-xs text-vertical"># de usuarios distintos de tu compañía con accesso a la plataforma</div>
+					</div>
+					<div class="height-planes col-2 b-a b-light grey-50 text-vertical"><span class="text-primary _800 m-x-auto" style="font-size: 30px !important;">2</span></div>
+					<div class="height-planes col-2 b-a b-light grey-50 text-vertical"><span class="text-primary _800 m-x-auto" style="font-size: 30px !important;">3</span></div>
+					<div class="height-planes col-2 b-a b-light grey-50 text-vertical"><span class="text-primary _800 m-x-auto" style="font-size: 30px !important;">4</span></div>
+				</div>
+				<div class="row flex-item-sb height-planes _800" id="13" style="justify-content: center !important">
+					<div class= "row height-planes col-4 text-sm text-left grey-200">
+							<div class="height-planes col-2 p-a-0"> <span class="height-planes margin-planes label white circle text-1-75x text-dark   label-lg m-r-sm padding-planes3 p-y-sm">17</span></div>
+							<div class="height-planes col-10   p-a-0 m-t-xs    hint--bottom hint--info hint--large" data-hint="Las solicitudes de cotización en las que invitas a cotizar sólo a tus propios proveedores, son ilimitadas"># de solicitudes de cotización mensuales, dirigidas a proveedores Ormigga <i class="fa fa-info-circle" aria-hidden="true"></i></div>
+								
+					</div>					
+					<div class="height-planes col-2 b-a b-light grey-50 text-vertical border-planes box-shadow-z3"><span class="text-primary _800 m-x-auto" style="font-size: 30px !important;">5</span></div>
+					<div class="height-planes col-2 b-a b-light grey-50 text-vertical border-planes box-shadow-z3"><span class="text-primary _800 m-x-auto" style="font-size: 30px !important;">12</span></div>
+					<div class="height-planes col-2 b-a b-light grey-50 text-vertical border-planes box-shadow-z3"><span class="text-primary _800 m-x-auto" style="font-size: 30px !important;">20</span></div>
+				</div>
+				<div class="row m-t-md flex-item-sb height-planes _800" id="20" style="justify-content: center !important">
+					<div class="height-planes col-4 text-sm text-left"></div>
+					<div class="height-planes col-2 border-planes"><button ng-hide="currentUser.selectedPlan.key == 'basic'" class="btn btn-1 btnPlan1 w-full">Quiero <br> este plan</button></div>
+					<div class="height-planes col-2 border-planes"><button ng-hide="currentUser.selectedPlan.key == 'plus'" class="btn btn-2 btnPlan2Y4 w-full">Quiero <br> este plan</button></div>
+					<div class="height-planes col-2 border-planes"><button ng-hide="currentUser.selectedPlan.key == 'superior'" class="btn btn-3 btnPlan3 w-full">Quiero <br> este plan</button></div>
+				</div>
+			</div>
+		</div>
+		<<div class="container">
+				<div class="col-12 " style="padding-top: 10%; padding-bottom: 10%;position: relative;">
+					<img class="img-fluid" src="media/img/4.png" alt="Plan Madre Reina" style="">
+					<span class="text-md font-weight-bold img-btn"><a class="btn btn-outline-info btn-large" href="http://">AQUÍ</a></span>
+				</div>
+			</div>
+	</div>
